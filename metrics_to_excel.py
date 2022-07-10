@@ -6,8 +6,8 @@ import sys
 import json
 import pandas as pd
 
-n = 2
-njobs = 2
+n = 30
+njobs = 8
 
 out_directory = sys.argv[1]
 
