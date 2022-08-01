@@ -1,2 +1,3 @@
-# TFM_Francisco
-Results of Francisco Morcillo Master Thesis
+# Handling Variability in Deep Neural Networks Experimentation
+
+Artifacts of Francisco Morcillo Master Thesis, titled "Handling Variability in Deep Neural Networks Experimentation".
